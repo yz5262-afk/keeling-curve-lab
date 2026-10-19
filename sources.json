@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://gml.noaa.gov/ccgg/trends",
+      "title": "",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": 2,
+      "url": "https://gml.noaa.gov/ccgg/trends/data.html",
+      "title": "",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": 3,
+      "url": "https://gml.noaa.gov/ccgg/about/co2_measurements.html",
+      "title": "",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": 4,
+      "url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.csv",
+      "title": "",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": 5,
+      "url": "https://gml.noaa.gov/ccgg/trends/gr.html",
+      "title": "NOAA annual growth-rate method",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 6,
+      "url": "https://gml.noaa.gov/publications/2828",
+      "title": "Thoning, Tans and Komhyr (1989)",
+      "accessed": "2026-10-08"
+    },
+    {
+      "id": 7,
+      "url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_gr_mlo.csv",
+      "title": "NOAA MLO annual growth rate CSV",
+      "accessed": "2026-10-08"
+    }
+  ]
+}
